@@ -12,13 +12,13 @@ untuk **Android**.
 ## Struktur Kode & Cara Kerja
 
 Ini adalah gambaran umum bagaimana kode bekerja:
-├── android/ # Konfigurasi & kode khusus Android
-├── lib/ # Kode utama Dart/Flutter
-│ ├── main.dart # Titik masuk aplikasi
-│ ├── pages/ # Halaman UI
-├── assets/ # Gambar
-├── pubspec.yaml # Konfigurasi Flutter + dependencies
-└── test/ # Unit/UI test
+- ├── android/ # Konfigurasi & kode khusus Android
+- ├── lib/ # Kode utama Dart/Flutter
+- │ ├── main.dart # Titik masuk aplikasi
+- │ ├── pages/ # Halaman UI
+- ├── assets/ # Gambar
+- ├── pubspec.yaml # Konfigurasi Flutter + dependencies
+- └── test/ # Unit/UI test
 
 ---
 
@@ -87,3 +87,4 @@ flutter test
 Penulis
 
 [Adinda Rachmania]
+
