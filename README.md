@@ -65,10 +65,10 @@ Android Studio / Xcode (untuk mobile)
 
 Lalu di terminal:
 
-git clone https://github.com/ursecsoul/ISO-.git
-cd ISO-
-flutter pub get      # install dependencies
-flutter run          # jalankan aplikasi   
+- git clone https://github.com/ursecsoul/ISO-.git
+- cd ISO-
+- flutter pub get      - # install dependencies
+- flutter run          - # jalankan aplikasi   
 
 Fitur 
 
@@ -87,4 +87,5 @@ flutter test
 Penulis
 
 [Adinda Rachmania]
+
 
